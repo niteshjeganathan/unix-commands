@@ -17,7 +17,7 @@ When prompted for password, enter the password for the remote unix/linux machine
 ssh-keygen
 ```
 <pre>
-[nitesh@tektutor Fruits]$ ssh-keygen
+[nitesh@tektutor]$ ssh-keygen
 Generating public/private rsa key pair.
 Enter file in which to save the key (/home/nitesh/.ssh/id_rsa): 
 Enter passphrase (empty for no passphrase): 
@@ -39,4 +39,4 @@ The key's randomart image is:
 |                 |
 +----[SHA256]-----+
 </pre>
-
+You may accept the defaults by hitting enter thrice.
